@@ -42,3 +42,6 @@ Use Gaussian blur for noise reduction. Gaussian blur, a typical image filtering 
 This methodology ensures robust and accurate lane detection, contributing to the safety and efficiency of ADAS and autonomous vehicle systems.
 
 # Future Scope
+This project currently relies on traditional image processing techniques and hard-coded mask details based on camera position, which may not yield accurate results across diverse input videos. The current implementation lacks adaptability to varying conditions such as different road environments, lighting, and camera angles. To address these limitations, the future scope of this project involves incorporating machine learning techniques.
+
+By leveraging machine learning, we can develop a more robust and adaptive model for lane detection. This advanced approach can learn from a wide range of scenarios and improve its performance over time, providing more consistent and accurate lane detection results. Machine learning models, especially those based on deep learning, can handle complex patterns and variations in road scenes, making them well-suited for this task.
