@@ -1,4 +1,3 @@
 This folder includes the following:
-
-1. **Sample Image**: Utilized for testing and executing all preprocessing functions.
-2. **Input Video (test2.mp4)**: This video will be used for implementing the lane detection function.
+1. Sample Image (test_image.jpg): Utilized for testing and executing all preprocessing functions.
+2. Input Video (test2.mp4): This video will be used for implementing the lane detection function.
